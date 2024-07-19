@@ -1,4 +1,4 @@
-# test-react-native-chatt-app
+# test-react-native-chat-app
 
 Test project
 ## Tech:
