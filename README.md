@@ -1,7 +1,8 @@
-# test-react-native-chat-app
+### test-react-native-chat-app
 
-Test project
-## Tech:
+# Test project
+
+## Tech Stack:
 * React Native;
 * Redux;
 * TypeScript;
